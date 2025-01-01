@@ -42,3 +42,9 @@ Teaching
 Honors and Awards
 ======
 * Outstanding Student Scholarship (2022, 2023, and 2024)
+
+Contact
+======
+* Email: tang211061@mail.ustc.edu.cn
+* CN Tel: (+86)18956221183
+* US Tel: (+1)7345968646
