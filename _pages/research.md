@@ -22,7 +22,7 @@ Suggestions/Lessons for Conducting Research
 ====
 (The following points can also be found in the [document](https://jacktangsy.github.io/files/Understanding_of_Research.pdf) mentioned above.)
 
-- **Real Data.** Distribution shifts, misclassified instances, missing values, and weak signals (low signal-to-noise ratios) are commonly encountered in real-world data, which is totally different from ``textbook examples''.
+- **Real Data.** Distribution shifts, misclassified instances, missing values, and weak signals (low signal-to-noise ratios) are commonly encountered in real-world data, which is totally different from "textbook examples".
 - **Attitudes toward Existing Literature.** Everyone makes mistakes. Good researchers should not completely trust the results from a paper without careful thought. It is sometimes necessary to verify the claims through hands-on implementation.
 - **Simulation Studies.** When faced with challenges or counterintuitive results in real-data analysis, conducting simulation studies with synthetic data can often provide valuable insights and validate the reasoning.
 - **Communication and Cooperation.** Cooperation is essential in modern research. Good researchers should always save their collaborators' time and communicate effectively. For example, preparing a brief document summarizing key points from the previous meeting, recent progress, and current questions can greatly facilitate the discussion.
