@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here.](https://jacktangsy.github.io/files/CV_SiyuanTang.pdf)
+
 Education
 ======
 * B.S., University of Science and Technology of China, Jun. 2025 (expected)
@@ -16,29 +18,6 @@ Education
   *  GPA: 4.00/4.3 (weighted average: 91.8/100)
   *  Ranking: 2/102
 
-Skills
-======
-* Programming: Python, R, C
-* Typesetting: LaTeX, Markdown
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Honors and Awards
 ======
 * Outstanding Student Scholarship (2022, 2023, and 2024)
