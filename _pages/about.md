@@ -9,7 +9,11 @@ redirect_from:
 
 ![USTC night view.](/images/en.ustc.edu.cn.jpeg)
 
-I am currently a senior student majoring in statistics at the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
+* Night view of my campus
+
+Who I am
+======
+I am currently a senior student majoring in statistics at the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). I will be a statistics Ph.D student in September 2025.
 
 Education
 ======
