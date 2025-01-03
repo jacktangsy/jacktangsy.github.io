@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 ![USTC night view.](/images/en.ustc.edu.cn.jpeg)
-
-* Night view of my campus
+Night view of my campus
 
 Who I am
 ======
