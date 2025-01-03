@@ -9,6 +9,8 @@ redirect_from:
 
 I am a senior student majoring in statistics at the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
 
+![USTC night view.](images/en.ustc.edu.cn.jpeg)
+
 Education
 ======
 * B.S., University of Science and Technology of China, Jun. 2025 (expected)
