@@ -13,7 +13,7 @@ redirect_from:
 
 Who I am
 ======
-I am currently a senior student majoring in statistics at the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). I will be a statistics Ph.D student in September 2025.
+I am currently a senior student majoring in statistics at the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). I am fascinated by statistics. I will be a statistics Ph.D student in September 2025.
 
 Education
 ======
