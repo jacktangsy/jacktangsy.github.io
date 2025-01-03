@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student majoring in statistics at the University of Science and Technology of China.
+I am a senior student majoring in statistics at the University of Science and Technology of China (USTC).
