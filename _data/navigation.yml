@@ -20,12 +20,15 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Research"
-    url: /research/
-
   - title: "CV"
     url: /files/CV_SiyuanTang.pdf
-  
+    
+  - title: "News"
+    url: /news/
+    
+  - title: "Research"
+    url: /research/
+    
   - title: "Transcript"
     url: /transcript/
   
