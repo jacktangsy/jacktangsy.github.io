@@ -16,13 +16,6 @@ I am currently a senior student majoring in statistics at the <a href="https://e
 
 Apart from statistics, I am passionate about literature, particularly novels. In my free time, I enjoy softly reading novels aloud, word by word. <a href="https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera" target="_blank">*Love in the Time of Cholera*</a> is probably the novel that has captivated me the most. I am also fascinated by Japanese literature for its intricate and subtle portrayal of human emotions.
 
-News
-======
-* *Nov. 24, 2024* Gave a talk on studying abroad at the Undergraduate Parents Forum and Experience Sharing Session at USTC.
-* *Nov. 16, 2024* Returned to China from Ann Arbor, Michigan, US, after 16 hours in the "sky prison".
-* *Nov. 04, 2024* Presented *Energy-Based Prediction and Classification in Solar Flare Forecasting* at the University of Michigan.
-* *Jul. 23, 2024* Arrived at Ann Arbor, Michigan, US, and started my undergraduate research internship at the University of Michigan.
-
 Education
 ======
 * B.S., University of Science and Technology of China, Jun. 2025 (expected)
