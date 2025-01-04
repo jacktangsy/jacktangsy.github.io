@@ -8,4 +8,4 @@ author_profile: true
 
 {% include base_path %}
 
-See my transcript [here](https://jacktangsy.github.io/files/Transcript_SiyuanTang.pdf), and its Chinese version [here](https://jacktangsy.github.io/files/Transcript_Chinese_SiyuanTang.pdf).
+See my transcript <a href="https://jacktangsy.github.io/files/Transcript_SiyuanTang.pdf" target="_blank">here</a>, and its Chinese version <a href="https://jacktangsy.github.io/files/Transcript_Chinese_SiyuanTang.pdf" target="_blank">here</a>.
