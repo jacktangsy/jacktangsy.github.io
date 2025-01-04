@@ -16,7 +16,7 @@ As an undergraduate, I am actively exploring various research areas and developi
 
 A table of contents has been added to facilitate my readers.
 
-I was a visiting undergraduate under the supervision of Professor <a href="https://yangchenfunstatistics.github.io/yangchen.github.io//" target="_blank">Yang Chen</a>, who provided invaluable guidance and taught me a lot about conducting research.
+I was a visiting undergraduate under the supervision of Professor <a href="https://yangchenfunstatistics.github.io/yangchen.github.io//" target="_blank">Yang Chen</a> (Assistant Professor, Department of Statistics, University of Michigan), who provided invaluable guidance and taught me a lot about conducting research.
 
 Suggestions/Lessons for Conducting Research
 ====
