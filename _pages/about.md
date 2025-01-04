@@ -32,3 +32,5 @@ Contact
 * Email: tang211061@mail.ustc.edu.cn
 * CN Tel: (+86)18956221183
 * US Tel: (+1)7345968646
+
+If you use <a href="https://www.wechat.com/" target="_blank">WeChat</a>, the quickest way to reach out to me is by adding my account using my Chinese phone number. Otherwise, you can contact me via email.
