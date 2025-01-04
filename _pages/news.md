@@ -1,3 +1,11 @@
+---
+layout: archive
+title: ""
+permalink: /news/
+author_profile: true
+
+---
+
 2024
 ======
 * *Nov. 24, 2024* Gave a talk on studying abroad at the Undergraduate Parents Forum and Experience Sharing Session at USTC.
