@@ -27,7 +27,7 @@ main:
     url: /files/CV_SiyuanTang.pdf
   
   - title: "Transcript"
-    url: /files/Transcript_SiyuanTang.pdf
+    url: /transcript/
   
   # - title: "Guide"
     # url: /markdown/
