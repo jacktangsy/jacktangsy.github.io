@@ -19,7 +19,7 @@ Apart from statistics, I am passionate about literature, particularly novels. In
 News
 ======
 * *Nov. 16, 2024* Returned to China from Ann Arbor, Michigan, US, after 16 hours in the "sky prison".
-* *Jul. 23, 2024* Arrived at Ann Arbor, Michigan, US, and started my undergraduate research internship.
+* *Jul. 23, 2024* Arrived at Ann Arbor, Michigan, US, and started my undergraduate research internship at the University of Michigan.
 
 Education
 ======
