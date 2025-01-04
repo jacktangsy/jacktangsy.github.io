@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-As an undergraduate, I am actively exploring various research areas and developing my academic taste. I have written a short [document](https://jacktangsy.github.io/files/Understanding_of_Research.pdf) summarizing my exposure to and understanding of several research topics, including:
+As an undergraduate, I am actively exploring various research areas and developing my academic taste. I have written a short <a href="https://jacktangsy.github.io/files/Understanding_of_Research.pdf" target="_blank">document</a> summarizing my exposure to and understanding of several research topics, including:
 
 - Statistical network analysis
 - Statistical text analysis
@@ -16,11 +16,11 @@ As an undergraduate, I am actively exploring various research areas and developi
 
 A table of contents has been added to facilitate my readers.
 
-I was a visiting undergraduate under the supervision of Professor [Yang Chen](https://yangchenfunstatistics.github.io/yangchen.github.io//), who provided invaluable guidance and taught me a lot about conducting research.
+I was a visiting undergraduate under the supervision of Professor <a href="https://yangchenfunstatistics.github.io/yangchen.github.io//" target="_blank">Yang Chen</a>, who provided invaluable guidance and taught me a lot about conducting research.
 
 Suggestions/Lessons for Conducting Research
 ====
-(The following points can also be found in the [document](https://jacktangsy.github.io/files/Understanding_of_Research.pdf) mentioned above.)
+(The following points can also be found in the <a href="https://jacktangsy.github.io/files/Understanding_of_Research.pdf" target="_blank">document</a> mentioned above.)
 
 - **Real Data.** Distribution shifts, misclassified instances, missing values, and weak signals (low signal-to-noise ratios) are commonly encountered in real-world data, which is totally different from "textbook examples".
 - **Attitudes toward Existing Literature.** Everyone makes mistakes. Good researchers should not completely trust the results from a paper without careful thought. It is sometimes necessary to verify the claims through hands-on implementation.
