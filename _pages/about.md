@@ -16,6 +16,11 @@ I am currently a senior student majoring in statistics at the <a href="https://e
 
 Apart from statistics, I am passionate about literature, particularly novels. In my free time, I enjoy softly reading novels aloud, word by word. <a href="https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera" target="_blank">*Love in the Time of Cholera*</a> is probably the novel that has captivated me the most. I am also fascinated by Japanese literature for its intricate and subtle portrayal of human emotions.
 
+News
+======
+* [Nov. 16, 2024] Returned to China from Ann Arbor, Michigan, USA.
+* [Jul. 23, 2024] Arrived at Ann Arbor, Michigan, and started my undergraduate research internship.
+
 Education
 ======
 * B.S., University of Science and Technology of China, Jun. 2025 (expected)
