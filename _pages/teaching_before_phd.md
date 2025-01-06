@@ -8,7 +8,7 @@ author_profile: true
 
 Currently, I have no experience as a teaching assistant, though I plan to gain such experience during my Ph.D. pursuit.
 
-**I strongly disagree with the practice in mainland China that allows undergraduate students to serve as teaching assistants**, even though I have encountered several excellent undergraduate teaching assistants.
+<span style="color: red;">I strongly disagree with the practice in mainland China that allows undergraduate students to serve as teaching assistants</span>, even though I have encountered several excellent undergraduate teaching assistants.
 
 My concerns are as follows:
 - **Emotional maturity:** Undergraduates are not yet mentally mature enough and can be easily influenced by personal emotions, which might affect how they interact with others.
