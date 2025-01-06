@@ -17,6 +17,6 @@ My concerns are as follows:
 
 For Institutions and Professors
 ====
-Some Chinese undergraduates believe that serving as teaching assistants will enhance their chances of Ph.D. admission to top institutions. However, based on my interactions with professors in the US, this belief is misguided. Admissions committees prioritize research experience, strong academic performance, and demonstrated intellectual curiosity over teaching assistant roles. While teaching experience can be valuable, it is not a decisive factor in graduate admissions, especially for undergraduate students.
+Some Chinese undergraduates believe that serving as teaching assistants will enhance their chances of Ph.D. admission to top institutions. However, based on my interactions with professors in the US, this belief is misguided. Admissions committees prioritize relevant research experience and strong academic performance over teaching assistant roles. While teaching experience can be valuable, it is not a decisive factor in graduate admissions, especially for undergraduate students.
 
 Institutions and professors should make this clear to their students, guiding them to focus on developing skills and experiences that truly matter for their academic and professional advancement.
