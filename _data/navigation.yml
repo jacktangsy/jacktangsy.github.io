@@ -29,8 +29,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching_before_phd/
+  # - title: "Teaching"
+  #   url: /teaching_before_phd/
     
   - title: "Transcript"
     url: /transcript/
