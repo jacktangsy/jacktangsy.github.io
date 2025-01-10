@@ -6,9 +6,7 @@ author_profile: true
 
 ---
 
-{% include base_path %}
-
-As an undergraduate, I am actively exploring various research areas and developing my academic taste. I have written a short <a href="https://jacktangsy.github.io/files/Understanding_of_Research.pdf" target="_blank">document</a> summarizing my exposure to and understanding of several research topics, including:
+As an undergraduate, I am actively exploring various research areas and developing my academic taste. I have written a short <a href="https://jacktangsy.github.io/files/Understanding_of_Research_SiyuanTang.pdf" target="_blank">document</a> summarizing my exposure to and understanding of several research topics, including:
 
 - Statistical network analysis
 - Statistical text analysis
@@ -20,7 +18,7 @@ I was a visiting undergraduate under the supervision of Professor <a href="https
 
 Suggestions/Lessons for Conducting Research
 ====
-(The following points can also be found in the <a href="https://jacktangsy.github.io/files/Understanding_of_Research.pdf" target="_blank">document</a> mentioned above.)
+(The following points can also be found in the <a href="https://jacktangsy.github.io/files/Understanding_of_Research_SiyuanTang.pdf" target="_blank">document</a> mentioned above.)
 
 - **Real Data.** Distribution shifts, misclassified instances, missing values, and weak signals (low signal-to-noise ratios) are commonly encountered in real-world data, which is totally different from "textbook examples".
 - **Attitudes toward Existing Literature.** Everyone makes mistakes. Good researchers should not completely trust the results from a paper without careful thought. It is sometimes necessary to verify the claims through hands-on implementation.
@@ -30,7 +28,7 @@ Suggestions/Lessons for Conducting Research
 
 Statistics in the New Era
 ====
-(The following points can also be found in the <a href="https://jacktangsy.github.io/files/Understanding_of_Research.pdf" target="_blank">document</a> mentioned above.)
+(The following points can also be found in the <a href="https://jacktangsy.github.io/files/Understanding_of_Research_SiyuanTang.pdf" target="_blank">document</a> mentioned above.)
 
 - **Can Deep Learning Beat Statistics?** Based on my personal experience, deep learning methods are powerful, but not as powerful as many people claim to be. Deep learning does not easily outperform traditional statistical methods in many real-world scenarios. For example, during my research internship at the University of Michigan, I found that the performance of a vanilla linear regression model was comparable to that of a neural network when predicting the energy released by a solar flare event. More surprisingly, a standard logistic regression model slightly outperformed the neural network when classifying flare events into pre-defined categories. From a statistical perspective, neural networks are essentially over-parameterized models. When the sample size is not sufficiently large, we cannot expect such complex models to beat classical statistical models.
 - **Challenges and Opportunities.** Nowadays, many data are collected through automated processes (automatically, rather than manually) and across different generations of technology. For example, during my research internship at the University of Michigan, I learned that the detection algorithms for flare events have evolved over the years. As a result, the quality of the data is often low and measurement errors are inevitable, which calls for effective statistical inference across different scientific contexts. In addition, there is often a gap between the findings published in statistics journals and the concerns of practitioners. In the era of Big Data and AI, bridging this gap becomes even more essential. Future statisticians should have the ability to conduct end-to-end research, from data collection and preprocessing to model development, goodness-of-fit assessments, performance evaluation, and ultimately, communicating findings in ways that are impactful for real-world applications.
