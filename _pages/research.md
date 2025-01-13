@@ -10,6 +10,7 @@ As an undergraduate, I am actively exploring various research areas and developi
 
 - Statistical network analysis
 - Statistical text analysis
+- Covariance estimation
 - Deep learning from a statistical perspective
 
 A table of contents has been added to facilitate my readers.
