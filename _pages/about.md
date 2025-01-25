@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I am Siyuan Tang!"
+title: "Siyuan Tang"
 author_profile: true
 redirect_from: 
   - /about/
