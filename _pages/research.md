@@ -17,7 +17,7 @@ A table of contents has been added to facilitate my readers.
 
 <span style="color:red">Please note that I frequently update this document as I am always learning something new.</span>
 
-I was a visiting undergraduate under the supervision of Professor <a href="https://yangchenfunstatistics.github.io/yangchen.github.io//" target="_blank">Yang Chen</a> (Assistant Professor, Department of Statistics, University of Michigan), who provided invaluable guidance and taught me a lot about conducting research.
+I was a visiting undergraduate under the supervision of Assistant Professor <a href="https://yangchenfunstatistics.github.io/yangchen.github.io//" target="_blank">Yang Chen</a> (Department of Statistics, University of Michigan), who provided invaluable guidance and taught me a lot about conducting research.
 
 Suggestions/Lessons for Conducting Research
 ====
