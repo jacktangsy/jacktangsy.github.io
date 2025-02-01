@@ -11,9 +11,11 @@ As an undergraduate, I am actively exploring various research areas and developi
 - Statistical network analysis
 - Statistical text analysis
 - Covariance estimation
-- Deep learning from a statistical perspective
+- Deep learning (diffusion models, large language models)
 
 A table of contents has been added to facilitate my readers.
+
+Please note that I frequently update this document as I am always learning something new.
 
 I was a visiting undergraduate under the supervision of Professor <a href="https://yangchenfunstatistics.github.io/yangchen.github.io//" target="_blank">Yang Chen</a> (Assistant Professor, Department of Statistics, University of Michigan), who provided invaluable guidance and taught me a lot about conducting research.
 
