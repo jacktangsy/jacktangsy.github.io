@@ -12,7 +12,7 @@ Night view of my campus
 
 Who I Am
 ======
-I am Siyuan Tang, a senior student majoring in Statistics at the <a href="https://en.business.ustc.edu.cn/audsf/list.htm" target="_blank">Department of Statistics and Finance</a>, <a href="https://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a> (USTC). I will be a Statistics Ph.D. student at the <a href="https://umich.edu" target="_blank"> University of Michigan, Ann Arbor</a>, in Fall 2025.
+I am Siyuan Tang, a senior majoring in Statistics at the <a href="https://en.business.ustc.edu.cn/audsf/list.htm" target="_blank">Department of Statistics and Finance</a>, <a href="https://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a> (USTC). I will be a Statistics Ph.D. student at the <a href="https://umich.edu" target="_blank"> University of Michigan, Ann Arbor</a>, in Fall 2025.
 
 Apart from academic interests, I am passionate about literature, particularly novels. In my free time, I enjoy softly reading novels aloud, word by word. <a href="https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera" target="_blank">*Love in the Time of Cholera*</a> is probably the novel that has captivated me the most. I am also fascinated by Japanese literature for its intricate and subtle portrayal of human emotions.
 
@@ -33,11 +33,14 @@ Education
 * B.S., University of Science and Technology of China, Jun. 2025 (expected)
   *  Major: Statistics
   *  GPA: 4.00/4.3 (weighted average: 91.8/100)
-  *  Ranking: 2/102
+  *  Ranking: 2/102 (at the School of Management)
 
+<!--
 Honors and Awards
 ======
-* Outstanding Student Scholarship (2022, 2023, and 2024)
+* Outstanding Undergraduate Graduate Award (University of Science and Technology of China, 2025)
+* Outstanding Student Scholarships (University of Science and Technology of China, 2022, 2023, and 2024)
+-->
 
 Contact
 ======
