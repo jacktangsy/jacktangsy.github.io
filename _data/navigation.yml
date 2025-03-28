@@ -23,8 +23,8 @@ main:
   - title: "CV"
     url: /files/CV_SiyuanTang.pdf
     
-  - title: "News"
-    url: /news/
+  # - title: "News"
+  #   url: /news/
     
   - title: "Research"
     url: /research/
