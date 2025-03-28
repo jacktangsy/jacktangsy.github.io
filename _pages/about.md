@@ -12,7 +12,7 @@ Night view of my campus
 
 Who I Am
 ======
-I am Siyuan Tang, a senior student majoring in statistics at the <a href="https://en.business.ustc.edu.cn/audsf/list.htm" target="_blank">Department of Statistics and Finance</a>, <a href="https://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a> (USTC). I am fascinated by statistics. I am currently applying to Ph.D. programs in statistics.
+I am Siyuan Tang, a senior student majoring in Statistics at the <a href="https://en.business.ustc.edu.cn/audsf/list.htm" target="_blank">Department of Statistics and Finance</a>, <a href="https://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a> (USTC). I will be a Statistics PhD student at the <a href="https://umich.edu" target="_blank"> University of Michigan, Ann Arbor</a>, in Fall 2025.
 
 Apart from academic interests, I am passionate about literature, particularly novels. In my free time, I enjoy softly reading novels aloud, word by word. <a href="https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera" target="_blank">*Love in the Time of Cholera*</a> is probably the novel that has captivated me the most. I am also fascinated by Japanese literature for its intricate and subtle portrayal of human emotions.
 
